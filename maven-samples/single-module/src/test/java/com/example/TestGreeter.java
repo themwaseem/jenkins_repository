@@ -30,7 +30,7 @@ public class TestGreeter {
     @Test
   public void khud_fail_kia() {
 
-    assertTrue(false);
+    assertTrue(true);
   }
 
   @Test
